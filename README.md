@@ -50,6 +50,3 @@ dataroot
 │       └── ......
 └── imu0
     └── data.csv
-
-## :running
-
