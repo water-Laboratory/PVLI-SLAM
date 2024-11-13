@@ -1,24 +1,55 @@
-# UVLI-SLAM
-
-<h1 align="center">AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM System</h1>
+<h1 align="center">UVLI-SLAM: Underwater High-Precision RGB-D Mapping with Visual-Laser-Inertial SLAM</h1>
 
 <p align="center"><strong>
-    <a href = "https://scholar.google.com/citations?user=-p7HvCMAAAAJ&hl=zh-CN">Kuan Xu</a><sup>1</sup>,
-    <a href = "https://github.com/yuefanhao">Yuefan Hao</a><sup>2</sup>,
-    <a href = "https://scholar.google.com/citations?user=XcV_sesAAAAJ&hl=en">Shenghai Yuan</a><sup>1</sup>,
-    <a href = "https://sairlab.org/team/chenw/">Chen Wang</a><sup>2</sup>,
-    <a href = "https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en">Lihua Xie</a><sup>1</sup>
+    Yajun Gao</a><sup>1</sup>,
+    <a href = "https://scholar.google.com/citations?user=iUUu8PkAAAAJ&hl=zh-CN">Yang Cong</a><sup>2</sup>,
+    Mingxue Li</a><sup>1</sup>,
+    Xu Tang</a><sup>1</sup>,
 </strong></p>
 
 <p align="center"><strong>
-    <a href = "https://www.ntu.edu.sg/cartin">1: Centre for Advanced Robotics Technology Innovation (CARTIN), Nanyang Technological University</a><br>
-    <a href = "https://sairlab.org/">2: Spatial AI & Robotics (SAIR) Lab, Computer Science and Engineering, University at Buffalo</a><br>
+    1: State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences</a><br>
+    2: College of Automation Science and Engineering, South China University of Technology</a><br>
 </strong></p>
 
-<p align="center"><strong> 
-    <a href = "https://arxiv.org/pdf/2408.03520">&#128196; [Arxiv]</a> | 
-    <a href = "https://xukuanhit.github.io/airslam/">&#128190; [Project Site]</a> |
-    <a href = "https://youtu.be/5OcR5KeO5nc">&#127909; [Youtube]</a> |
-    <a href = "https://www.bilibili.com/video/BV1rJY7efE9x">&#127909; [Bilibili]</a>
-    <!-- &#128214; [OpenAccess] -->
-</strong></p>
+## :eyes: Updates
+* [2024.11] We created the project and subsequently released the code and dataset.
+
+
+## :checkered_flag: Test Environment
+### Dependencies
+* OpenCV 4.2
+* Eigen 3
+* Ceres 2.0.0
+* G2O 
+* CUDA 12.1
+* python
+* ROS
+* Boost
+
+
+## :book: Data
+The deep-sea 3D dataset contains more than 20,000 seafloor images.
+
+```
+dataroot
+├── cam0
+│       ├── t0.jpg
+│       ├── t1.jpg
+│       ├── t2.jpg
+│       └── ......
+├── cam1
+│       ├── t0.jpg
+│       ├── t1.jpg
+│       ├── t2.jpg
+│       └── ......
+├── laser
+│       ├── t0.jpg
+│       ├── t1.jpg
+│       ├── t2.jpg
+│       └── ......
+└── imu0
+    └── data.csv
+
+## :running
+
