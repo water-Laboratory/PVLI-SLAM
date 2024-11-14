@@ -14,7 +14,7 @@
 
 
 <p align="middle">
-  <img src="framework.jpg" width="600" />
+  <img src="framework.jpg" width="1000" />
 </p>
 
 ## :eyes: Updates
