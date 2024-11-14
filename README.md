@@ -12,6 +12,11 @@
     2: College of Automation Science and Engineering, South China University of Technology</a><br>
 </strong></p>
 
+
+<p align="middle">
+  <img src="figures/system_arch.jpg" width="600" />
+</p>
+
 ## :eyes: Updates
 * [2024.11] We created the project and subsequently released the code and dataset.
 
