@@ -14,7 +14,7 @@
 
 
 <p align="middle">
-  <img src="figures/system_arch.jpg" width="600" />
+  <img src="framework.jpg" width="600" />
 </p>
 
 ## :eyes: Updates
