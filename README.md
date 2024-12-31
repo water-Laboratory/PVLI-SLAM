@@ -1,4 +1,4 @@
-<h1 align="center">UVLI-SLAM: Underwater Precise RGB-D Mapping with Visual-Laser-Inertial SLAM</h1>
+<h1 align="center">UVLI-SLAM: Precise Underwater RGB-D Mapping via Visual-Laser-Inertial SLAM</h1>
 
 <p align="center"><strong>
     Yajun Gao</a><sup>1</sup>,
