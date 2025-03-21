@@ -12,9 +12,12 @@
     2: College of Automation Science and Engineering, South China University of Technology</a><br>
 </strong></p>
 
+<p align="middle">
+  <img src="framework.png" width="1000" />
+</p>
 
 <p align="middle">
-  <img src="framework.jpg" width="1000" />
+  <img src="map.png" width="1000" />
 </p>
 
 ## :eyes: Updates
