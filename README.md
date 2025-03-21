@@ -13,12 +13,14 @@
 </strong></p>
 
 <p align="middle">
+  <img src="map.png" width="1000" />
+</p>
+
+
+<p align="middle">
   <img src="framework.png" width="1000" />
 </p>
 
-<p align="middle">
-  <img src="map.png" width="1000" />
-</p>
 
 ## :eyes: Updates
 * [2024.11] We created the project and subsequently released the code and dataset.
