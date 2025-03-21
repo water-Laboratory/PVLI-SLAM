@@ -15,12 +15,12 @@
 <p align="middle">
   <img src="map.png" width="1000" />
 </p>
-
+Precise RGB-D mapping. Air: a car carrying the device orbits around the building; Underwater: a remotely operated vehicle (ROV) sails along a predefined trajectory near the seabed, about 2-3 meters away from the target, and the device projects a laser line and captures stereo images, ultimately generating an precise RGB-D map using our algorithm.
 
 <p align="middle">
   <img src="framework.png" width="1000" />
 </p>
-
+The framework of our proposed PVLI-SLAM. The algorithm starts with a measurement preprocessing and initialization module; the laser processing module generates an precise single-line point cloud; the sliding window-based back-end optimization module tightly integrates visual point-line features, IMU measurements, and laser line to perform global optimization. Finally, the map merging module combines the running trajectory and the single-line point cloud to generate a real-time, precise, and dense RGB-D map.
 
 ## :eyes: Updates
 * [2024.11] We created the project and subsequently released the code and dataset.
