@@ -1,16 +1,5 @@
 <h1 align="center">PVLI-SLAM: Precise RGB-D Mapping via Visual-Laser-Inertial SLAM</h1>
 
-<p align="center"><strong>
-    Yajun Gao</a><sup>1</sup>,
-    <a href = "https://scholar.google.com/citations?user=iUUu8PkAAAAJ&hl=zh-CN">Yang Cong</a><sup>2</sup>,
-    Mingxue Li</a><sup>1</sup>,
-    Xu Tang</a><sup>1</sup>,
-</strong></p>
-
-<p align="center"><strong>
-    1: State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences</a><br>
-    2: College of Automation Science and Engineering, South China University of Technology</a><br>
-</strong></p>
 
 <p align="middle">
   <img src="map.png" width="1000" />
