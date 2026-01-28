@@ -12,7 +12,7 @@ Precise RGB-D mapping. Air: a car carrying the device orbits around the building
 The framework of our proposed PVLI-SLAM. The algorithm starts with a measurement preprocessing and initialization module; the laser processing module generates an precise single-line point cloud; the sliding window-based back-end optimization module tightly integrates visual point-line features, IMU measurements, and laser line to perform global optimization. Finally, the map merging module combines the running trajectory and the single-line point cloud to generate a real-time, precise, and dense RGB-D map.
 
 ## :eyes: Updates
-* [2024.11] We created the project and subsequently released the code and dataset.
+* [2026.01] We created the project and subsequently released the code and dataset.
 
 
 ## :checkered_flag: Test Environment
