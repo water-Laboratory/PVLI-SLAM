@@ -14,6 +14,9 @@ The framework of our proposed PVLI-SLAM. The algorithm starts with a measurement
 ## :eyes: Updates
 * [2026.01] We created the project and subsequently released the code and dataset.
 
+<p align="middle">
+  <img src="sea-result.png" width="1000" />
+</p>
 
 ## :checkered_flag: Test Environment
 ### Dependencies
