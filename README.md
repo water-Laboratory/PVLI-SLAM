@@ -1,5 +1,6 @@
 <h1 align="center">PVLI-SLAM: Precise RGB-D Mapping via Visual-Laser-Inertial SLAM</h1>
 
+<p align="middle"> Yajun Gao, Yang Cong*, Mingxue Li, Xu Tang
 
 <p align="middle">
   <img src="map.png" width="1000" />
@@ -14,6 +15,7 @@ The framework of our proposed PVLI-SLAM. The algorithm starts with a measurement
 
 ## :eyes: Updates
 * [2026.01] We created the project and subsequently released the code and dataset.
+* [2026.04] This paper has been accepted by TIM2026 and a link will be provided after publication.
 * [later] We will present the entire dataset.
   
 
