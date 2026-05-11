@@ -15,7 +15,9 @@ The framework of our proposed PVLI-SLAM. The algorithm starts with a measurement
 
 ## :eyes: Updates
 * [2026.01] We created the project and subsequently released the code and dataset.
-* [2026.04] This paper has been accepted by TIM2026 and a link will be provided after publication.
+* [2026.04] This article has been published in TIM2026.
+* Paper: https://ieeexplore.ieee.org/document/11501210
+* DOI: 10.1109/TIM.2026.3687299
 * [later] We will present the entire dataset.
   
 
