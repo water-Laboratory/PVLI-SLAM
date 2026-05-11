@@ -1,4 +1,4 @@
-<h1 align="center">PVLI-SLAM: Precise RGB-D Mapping via Visual-Laser-Inertial SLAM</h1>
+<h1 align="center">PVLI-SLAM: Precise RGB-D Mapping With Visual–Laser–Inertial SLAM</h1>
 
 <p align="middle"> Yajun Gao, Yang Cong*, Mingxue Li, Xu Tang
 
